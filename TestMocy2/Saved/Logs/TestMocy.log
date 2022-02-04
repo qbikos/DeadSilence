@@ -989,3 +989,552 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.04-10.17.56:079][660]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.04-10.17.56:079][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.02.04-10.17.56:079][660]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-10.30.59:738][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.02.04-10.30.59:756][172]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_Auto1466A111F4865DA220AE4FFA2ED006636.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.02.04-10.30.59:757][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.044
+[2022.02.04-10.30.59:757][172]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2022.02.04-10.30.59:758][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.04-10.30.59:768][172]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.04-10.30.59:768][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BP_TelekinetikProp]
+[2022.02.04-10.30.59:782][172]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp_Auto1F1A674FC40DD1AEE540BBBA46BA90CEF.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/BP_TelekinetikProp_Auto1.uasset'
+[2022.02.04-10.30.59:783][172]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.02.04-10.41.00:169][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.02.04-10.41.00:186][673]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_Auto2BF69644A426749F6CA48C09B35E14EF6.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.02.04-10.41.00:188][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.042
+[2022.02.04-10.41.00:188][673]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2022.02.04-10.41.00:188][673]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.04-10.41.00:202][673]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.04-10.41.00:202][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BP_TelekinetikProp]
+[2022.02.04-10.41.00:215][673]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp_Auto2534DD984434AD1DE132A7CA3D0203AF8.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/BP_TelekinetikProp_Auto2.uasset'
+[2022.02.04-10.41.00:216][673]LogFileHelpers: Auto-saving content packages took 0.028
+[2022.02.04-10.57.36:964][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.04-10.57.36:965][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2022.02.04-10.57.36:965][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.04-10.57.36:979][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.04-10.57.36:979][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BP_TelekinetikProp]
+[2022.02.04-10.57.36:992][388]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp_Auto3A31E69254BA95CB7F816B6918E10EEA4.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/BP_TelekinetikProp_Auto3.uasset'
+[2022.02.04-10.57.36:993][388]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.02.04-11.00.02:374][106]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.00.02:412][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.02.04-11.00.03:553][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.00.03:567][168]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikPropEAA692C14940BD130F993F9723F15DE2.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.00.03:583][168]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.00.03:583][168]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.06.12:109][898]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.06.12:149][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.02.04-11.06.15:785][111]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FirstPersonBP/EPropStatus.EPropStatus
+[2022.02.04-11.06.19:333][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/EPropStatus" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/EPropStatus.uasset" SILENT=true
+[2022.02.04-11.06.19:334][321]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/EPropStatus0FC37C47489A8BD6FE914B9206DE11B3.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/EPropStatus.uasset'
+[2022.02.04-11.06.19:345][321]AssetCheck: New page: Asset Save: EPropStatus
+[2022.02.04-11.06.19:345][321]LogContentValidation: Display: Validating UserDefinedEnum /Game/FirstPersonBP/EPropStatus.EPropStatus
+[2022.02.04-11.07.12:767][788]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.04-11.07.33:688][926]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.02.04-11.07.38:195][191]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.02.04-11.07.38:199][191]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.02.04-11.08.18:524][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.02.04-11.08.18:544][771]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_Auto46CEEBF23400A554CC76F589D1F014CA7.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2022.02.04-11.08.18:545][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
+[2022.02.04-11.08.18:545][771]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2022.02.04-11.08.18:546][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.04-11.08.18:559][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.04-11.08.18:559][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BP_TelekinetikProp]
+[2022.02.04-11.08.18:575][771]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp_Auto4F506B7C0443945F0791CEB80F9741701.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/BP_TelekinetikProp_Auto4.uasset'
+[2022.02.04-11.08.18:576][771]LogFileHelpers: Auto-saving content packages took 0.031
+[2022.02.04-11.12.24:434][630]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.12.24:474][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.02.04-11.12.25:187][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.12.25:205][670]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp2505B80B4EEE97ED92EEF3B090BF0148.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.12.25:222][670]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.12.25:222][670]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.12.28:419][860]LogRenderer: Reallocating scene render targets to support 1092x692 Format 10 NumSamples 1 (Frame:1).
+[2022.02.04-11.13.49:365][884]LogRenderer: Reallocating scene render targets to support 1092x708 Format 10 NumSamples 1 (Frame:2975).
+[2022.02.04-11.14.17:837][590]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.04-11.14.17:898][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.02.04-11.14.18:398][612]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonCharacterC958C2E247CDC538063FA89CCB1BC481.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.02.04-11.14.18:414][612]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.04-11.14.18:414][612]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.04-11.17.37:140][192]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.04-11.17.37:201][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.02.04-11.17.37:730][216]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonCharacter1978D461476DC6B7E89865B890363684.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.02.04-11.17.37:748][216]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.04-11.17.37:748][216]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.04-11.18.57:192][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.02.04-11.18.57:209][886]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_Auto517B6C88746B707EC16E2EDBE50099440.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2022.02.04-11.18.57:211][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.042
+[2022.02.04-11.18.57:211][886]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2022.02.04-11.18.57:211][886]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.04-11.18.57:225][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.04-11.18.57:225][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BP_TelekinetikProp]
+[2022.02.04-11.18.57:243][886]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp_Auto5AC6F11864D1060600AA24DB08C93A8FD.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/BP_TelekinetikProp_Auto5.uasset'
+[2022.02.04-11.18.57:244][886]LogFileHelpers: Auto-saving content packages took 0.033
+[2022.02.04-11.23.56:039][598]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.23.56:081][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.02.04-11.23.56:754][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.23.56:775][636]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikPropB01D8C1D4B52A0C96C3752AA5D85B171.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.23.56:792][636]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.23.56:792][636]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.28.57:726][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.02.04-11.28.57:743][194]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_Auto6BE41489D4A3AFD2D7B7AD89CAD5566FF.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2022.02.04-11.28.57:744][194]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
+[2022.02.04-11.28.57:744][194]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2022.02.04-11.28.57:744][194]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.04-11.28.57:758][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.04-11.28.57:758][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BP_TelekinetikProp]
+[2022.02.04-11.28.57:778][194]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp_Auto64819A2374C75189114C7EC96088FA8FA.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/Autosaves/Game/FirstPersonBP/BP_TelekinetikProp_Auto6.uasset'
+[2022.02.04-11.28.57:779][194]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.02.04-11.37.40:363][186]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.37.40:404][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.04-11.37.41:278][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.37.41:299][235]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikPropEDAD752540E738ECB096B2B48457E133.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.37.41:315][235]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.37.41:315][235]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.37.43:552][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.04-11.37.43:569][367]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap836F077F4B9767393153DC8735F8F622.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.04-11.37.43:856][367]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_BuiltData6FEB0DE74735D191BD5ED1B4981A6421.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.04-11.37.43:870][367]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-11.37.43:870][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.04-11.37.43:870][367]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-11.37.44:841][425]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.37.44:847][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.37.44:847][425]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:37:44)
+[2022.02.04-11.37.44:848][425]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.37.44:857][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009181s)
+[2022.02.04-11.37.44:858][425]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.37.44:858][425]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2022.02.04-11.37.44:858][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010322s)
+[2022.02.04-11.37.44:881][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.04-11.37.44:882][425]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.37.44:882][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.37.44:882][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.37.44:882][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.37.44:882][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.37.44:882][425]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.37.44:885][425]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.37.44:885][425]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.37.44:899][425]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.37.44:899][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.37.44:899][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.37.44:899][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.37.44:899][425]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.37.44:899][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.37.44:899][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.37.44:900][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.37.44:900][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.37.44:900][425]LogInit: FAudioDevice initialized.
+[2022.02.04-11.37.44:900][425]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.37.44:907][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.37.44:909][425]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.37.44
+[2022.02.04-11.37.44:909][425]LogWorld: Bringing up level for play took: 0.001657
+[2022.02.04-11.37.44:909][425]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.04-11.37.44:911][425]PIE: Server logged in
+[2022.02.04-11.37.44:912][425]PIE: Play in editor total start time 0,068 seconds.
+[2022.02.04-11.37.55:231][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.37.55:231][ 41]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.37.55:232][ 41]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.37.55:232][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.37.55:241][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.37.55:244][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.37.55:263][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.37.55:264][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.37.55:265][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.37.55:270][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.04-11.37.55:296][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.02.04-11.38.11:764][ 20]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonCharacterEA1D142445AA7AC34410908A66235E8C.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.02.04-11.38.11:779][ 20]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.04-11.38.11:779][ 20]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.04-11.38.41:803][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.38.41:822][815]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp4FD2A8D44CBD9082741602BD3F46E6E6.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.38.41:834][815]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.38.41:834][815]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.40.13:615][287]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.40.13:654][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.04-11.40.14:276][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.40.14:297][322]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp2D807FAB4076137C8FA20CAA82FB51B7.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.40.14:313][322]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.40.14:313][322]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.40.15:711][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.02.04-11.40.15:728][404]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap4073318D44F99FB8DACBCE9000BDB214.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.04-11.40.16:013][404]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_BuiltDataCBE76C864F7413A127AC178C0CDADF27.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.04-11.40.16:028][404]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-11.40.16:028][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.04-11.40.16:028][404]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-11.40.16:730][446]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.40.16:737][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.40.16:737][446]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:40:16)
+[2022.02.04-11.40.16:737][446]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.40.16:746][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008773s)
+[2022.02.04-11.40.16:747][446]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.40.16:747][446]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2022.02.04-11.40.16:747][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010252s)
+[2022.02.04-11.40.16:770][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.04-11.40.16:771][446]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.40.16:771][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.40.16:771][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.40.16:771][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.40.16:771][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.40.16:771][446]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.40.16:774][446]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.40.16:774][446]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.40.16:788][446]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.40.16:788][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.40.16:788][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.40.16:788][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.40.16:789][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.40.16:789][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.40.16:789][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.40.16:790][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.40.16:790][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.40.16:790][446]LogInit: FAudioDevice initialized.
+[2022.02.04-11.40.16:790][446]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.40.16:796][446]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.40.16:798][446]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.40.16
+[2022.02.04-11.40.16:798][446]LogWorld: Bringing up level for play took: 0.001499
+[2022.02.04-11.40.16:798][446]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.02.04-11.40.16:800][446]PIE: Server logged in
+[2022.02.04-11.40.16:801][446]PIE: Play in editor total start time 0,068 seconds.
+[2022.02.04-11.40.23:812][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.40.23:812][864]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.40.23:812][864]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.40.23:812][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.40.23:842][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.40.23:845][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.40.23:864][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.40.23:864][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.40.23:866][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.40.23:871][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.04-11.40.23:896][865]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.02.04-11.40.28:340][131]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.40.28:380][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.02.04-11.40.28:816][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.40.28:837][155]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp95DADD42489F170947A8DB8F9218BC52.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.40.28:854][155]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.40.28:854][155]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.42.18:968][485]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.42.19:009][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.02.04-11.42.19:521][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.42.19:542][513]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikPropBC82BC7647484A332047DCB63657DE6A.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.42.19:556][513]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.42.19:557][513]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.42.21:102][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.04-11.42.21:120][604]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap30F3586B4A290DC5435D2081E0AEA19B.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.04-11.42.21:407][604]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_BuiltDataD5DC1D7B4D90D5A0778BB0A28EC80C3A.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.04-11.42.21:420][604]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-11.42.21:420][604]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.04-11.42.21:421][604]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-11.42.21:799][627]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.42.21:806][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.42.21:806][627]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:42:21)
+[2022.02.04-11.42.21:806][627]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.42.21:816][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009856s)
+[2022.02.04-11.42.21:817][627]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.42.21:817][627]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2022.02.04-11.42.21:817][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011149s)
+[2022.02.04-11.42.21:839][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.04-11.42.21:840][627]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.42.21:840][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.42.21:840][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.42.21:841][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.42.21:841][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.42.21:841][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.42.21:841][627]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.42.21:843][627]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.42.21:843][627]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.42.21:856][627]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.42.21:856][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.42.21:856][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.42.21:856][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.42.21:857][627]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.42.21:857][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.42.21:857][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.42.21:858][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.42.21:858][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.42.21:858][627]LogInit: FAudioDevice initialized.
+[2022.02.04-11.42.21:858][627]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.42.21:869][627]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.42.21:871][627]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.42.21
+[2022.02.04-11.42.21:871][627]LogWorld: Bringing up level for play took: 0.001502
+[2022.02.04-11.42.21:871][627]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.02.04-11.42.21:873][627]PIE: Server logged in
+[2022.02.04-11.42.21:874][627]PIE: Play in editor total start time 0,071 seconds.
+[2022.02.04-11.42.29:112][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.42.29:112][ 58]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.42.29:112][ 58]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.42.29:112][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.42.29:123][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.42.29:127][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.42.29:146][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.42.29:146][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.42.29:147][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.42.29:153][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.04-11.42.29:178][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.02.04-11.45.09:891][917]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.45.09:930][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.02.04-11.45.10:752][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.45.10:773][963]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp20F657F448A51952A2A8AFB172670A60.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.45.10:789][963]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.45.10:789][963]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.45.12:333][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.02.04-11.45.12:350][ 54]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap96F743DA41B8E4B9036D32AE503190F5.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.04-11.45.12:640][ 54]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_BuiltData6BE2EDBD4D8F53D0658A4FA241596702.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.04-11.45.12:655][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-11.45.12:655][ 54]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.04-11.45.12:655][ 54]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-11.45.13:592][110]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.45.13:598][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.45.13:598][110]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:45:13)
+[2022.02.04-11.45.13:598][110]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.45.13:607][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008261s)
+[2022.02.04-11.45.13:607][110]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.45.13:608][110]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2022.02.04-11.45.13:608][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009526s)
+[2022.02.04-11.45.13:630][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.04-11.45.13:631][110]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.04-11.45.13:631][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.45.13:632][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.45.13:632][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.45.13:632][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.45.13:632][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.45.13:632][110]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.45.13:634][110]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.45.13:634][110]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.45.13:647][110]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.45.13:647][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.45.13:647][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.45.13:647][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.45.13:647][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.45.13:647][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.45.13:647][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.45.13:648][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.45.13:648][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.45.13:648][110]LogInit: FAudioDevice initialized.
+[2022.02.04-11.45.13:648][110]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.45.13:656][110]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.45.13:658][110]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.45.13
+[2022.02.04-11.45.13:659][110]LogWorld: Bringing up level for play took: 0.001587
+[2022.02.04-11.45.13:659][110]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.02.04-11.45.13:661][110]PIE: Server logged in
+[2022.02.04-11.45.13:662][110]PIE: Play in editor total start time 0,067 seconds.
+[2022.02.04-11.45.19:852][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.45.19:852][479]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.45.19:853][479]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.45.19:853][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.45.19:861][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.45.19:865][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.45.19:884][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.45.19:884][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.45.19:885][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.45.19:891][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.04-11.45.19:943][481]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.02.04-11.45.42:430][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.45.42:449][824]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp1415FAF149826263C23F14B9DDE38E92.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.45.42:465][824]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.45.42:465][824]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.48.29:186][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.48.29:206][399]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp08DA79BE49AE85F0A76EE9BF0E857D60.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.48.29:221][399]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.48.29:221][399]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.48.32:471][592]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.48.32:478][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.48.32:478][592]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:48:32)
+[2022.02.04-11.48.32:478][592]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.48.32:487][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008794s)
+[2022.02.04-11.48.32:488][592]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.48.32:488][592]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2022.02.04-11.48.32:488][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010172s)
+[2022.02.04-11.48.32:515][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.02.04-11.48.32:516][592]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.48.32:517][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.48.32:517][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.48.32:517][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.48.32:517][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.48.32:517][592]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.48.32:520][592]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.48.32:520][592]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.48.32:534][592]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.48.32:534][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.48.32:534][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.48.32:534][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.48.32:535][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.48.32:535][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.48.32:535][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.48.32:536][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.48.32:536][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.48.32:536][592]LogInit: FAudioDevice initialized.
+[2022.02.04-11.48.32:536][592]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.48.32:541][592]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.48.32:543][592]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.48.32
+[2022.02.04-11.48.32:543][592]LogWorld: Bringing up level for play took: 0.001525
+[2022.02.04-11.48.32:543][592]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.02.04-11.48.32:545][592]PIE: Server logged in
+[2022.02.04-11.48.32:546][592]PIE: Play in editor total start time 0,071 seconds.
+[2022.02.04-11.48.44:333][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.48.44:333][296]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.48.44:333][296]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.48.44:333][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.48.44:359][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.48.44:362][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.48.44:381][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.48.44:381][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.48.44:382][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.48.44:387][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.04-11.48.44:413][297]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.02.04-11.50.21:145][390]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.04-11.50.21:185][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.02.04-11.50.21:776][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BP_TelekinetikProp" FILE="../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset" SILENT=true
+[2022.02.04-11.50.21:797][422]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/BP_TelekinetikProp9983E05040B96402CCDE2DB05CF4E388.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/BP_TelekinetikProp.uasset'
+[2022.02.04-11.50.21:809][422]AssetCheck: New page: Asset Save: BP_TelekinetikProp
+[2022.02.04-11.50.21:809][422]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.04-11.50.23:101][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.02.04-11.50.23:118][498]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap42473F524660CDCB1E3D079134B84A27.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.04-11.50.23:409][498]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_BuiltDataC1E53FEA44784B14E801BAA1E882D166.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.04-11.50.23:424][498]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-11.50.23:424][498]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.04-11.50.23:424][498]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-11.50.24:468][561]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.50.24:475][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.50.24:475][561]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:50:24)
+[2022.02.04-11.50.24:475][561]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.50.24:483][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008141s)
+[2022.02.04-11.50.24:484][561]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.50.24:484][561]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2022.02.04-11.50.24:484][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009419s)
+[2022.02.04-11.50.24:507][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.02.04-11.50.24:508][561]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.50.24:508][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.50.24:508][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.50.24:509][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.50.24:509][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.50.24:509][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.50.24:509][561]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.50.24:512][561]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.50.24:512][561]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.50.24:524][561]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.50.24:524][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.50.24:525][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.50.24:525][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.50.24:525][561]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.50.24:525][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.50.24:525][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.50.24:526][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.50.24:526][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.50.24:526][561]LogInit: FAudioDevice initialized.
+[2022.02.04-11.50.24:526][561]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.50.24:537][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.50.24:539][561]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.50.24
+[2022.02.04-11.50.24:539][561]LogWorld: Bringing up level for play took: 0.001478
+[2022.02.04-11.50.24:539][561]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.02.04-11.50.24:541][561]PIE: Server logged in
+[2022.02.04-11.50.24:542][561]PIE: Play in editor total start time 0,071 seconds.
+[2022.02.04-11.50.30:353][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.50.30:353][907]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.50.30:353][907]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.50.30:354][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.50.30:364][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.50.30:367][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.50.30:386][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.50.30:386][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.50.30:387][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.50.30:393][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.04-11.50.30:446][909]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.02.04-11.50.51:446][162]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.04-11.50.51:506][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.04-11.50.52:243][198]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonCharacter2056DFB044EE48A9050391A0E304118C.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.02.04-11.50.52:256][198]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.04-11.50.52:256][198]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.04-11.50.54:082][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.04-11.50.54:100][306]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMapAE4CC34446F992B04C13779AC6D8BE29.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.04-11.50.54:387][306]LogSavePackage: Moving '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Saved/FirstPersonExampleMap_BuiltDataB81F8600473B997BAF627BBDC8F0BB7C.tmp' to '../../../../../../UnrealProjects/Gra/DeadSilence/TestMocy2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.04-11.50.54:401][306]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.04-11.50.54:401][306]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.04-11.50.54:401][306]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.04-11.50.55:153][351]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.04-11.50.55:160][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.04-11.50.55:160][351]PIE: New page: PIE session: FirstPersonExampleMap (4 lut 2022, 13:50:55)
+[2022.02.04-11.50.55:200][351]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.50.55:209][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008717s)
+[2022.02.04-11.50.55:210][351]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.04-11.50.55:210][351]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2022.02.04-11.50.55:210][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010080s)
+[2022.02.04-11.50.55:233][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.02.04-11.50.55:234][351]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.04-11.50.55:234][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.04-11.50.55:234][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.04-11.50.55:234][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.04-11.50.55:234][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.04-11.50.55:234][351]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.04-11.50.55:237][351]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.04-11.50.55:237][351]LogAudioMixer: Display: 1: FrontRight
+[2022.02.04-11.50.55:250][351]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.04-11.50.55:250][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.04-11.50.55:250][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.04-11.50.55:250][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.04-11.50.55:251][351]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.04-11.50.55:251][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.04-11.50.55:251][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.04-11.50.55:252][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.04-11.50.55:252][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.04-11.50.55:252][351]LogInit: FAudioDevice initialized.
+[2022.02.04-11.50.55:252][351]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2022.02.04-11.50.55:262][351]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.04-11.50.55:264][351]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.04-12.50.55
+[2022.02.04-11.50.55:264][351]LogWorld: Bringing up level for play took: 0.001481
+[2022.02.04-11.50.55:264][351]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.02.04-11.50.55:266][351]PIE: Server logged in
+[2022.02.04-11.50.55:267][351]PIE: Play in editor total start time 0,111 seconds.
+[2022.02.04-11.51.01:683][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.51.01:683][731]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.04-11.51.01:683][731]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.04-11.51.01:684][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.51.01:695][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.04-11.51.01:699][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.04-11.51.01:718][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.04-11.51.01:718][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.51.01:719][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.04-11.51.01:725][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.04-11.51.01:750][732]LogPlayLevel: Display: Destroying online subsystem :Context_15
